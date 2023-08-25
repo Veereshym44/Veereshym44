@@ -1,7 +1,18 @@
-# Hi there! 👋 I am Veeresh Kumar Y M
+<div align="center">
+  <h1>Hi there! 👋 I am Veeresh Kumar Y M</h1>
+  
+  <p>
+    <a href="https://instagram.com/Veeresh_ym">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://in.linkedin.com/in/veeresh-kumar-y-m-09b779221">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
 
 ## About Me 💫
-I am a 3rd-year undergraduate student at Siddaganga Institute of Technology, Tumkur. I have a strong passion for coding and I specialize in MERN stack development. I had the privilege of interning at Alcon Laboratories as a Software Engineer for 2 months. During my internship, I automated Jira Software to generate reports for issues that transitioned to the 'Done' state in the previous 24 hours. I also worked on integrating Docusign with Jira.
+I am a 3rd-year undergraduate student at Siddaganga Institute of Technology, Tumkur. I have a strong passion for coding and specialize in MERN stack development. I had the privilege of interning at Alcon Laboratories as a Software Engineer for 2 months. During my internship, I automated Jira Software to generate reports for issues that transitioned to the 'Done' state in the previous 24 hours. I also worked on integrating Docusign with Jira.
 
 ## What I can help you with 💬
 I am well-versed in the following programming languages and tools:
@@ -15,8 +26,11 @@ I am well-versed in the following programming languages and tools:
 ## What I'm currently working on 🌱
 I am currently focused on deepening my knowledge of MERN Stack development and exploring NLP technologies.
 
-## Connect with me 🌐
-You can find me on [Instagram](https://instagram.com/Veeresh_ym) and [LinkedIn](https://in.linkedin.com/in/veeresh-kumar-y-m-09b779221).
+<div align="center">
+  <a href="https://instagram.com/Veeresh_ym">
+    <img src="https://github-readme-stats.vercel.app/api?username=Veereshym44&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  </a>
+</div>
 
 ## Tech Stack 💻
 I'm skilled in various technologies, including:
@@ -39,4 +53,8 @@ I'm skilled in various technologies, including:
 
 ---
 
-[![Visits](https://visitcount.itsvg.in/api?id=Veereshym44&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=Veereshym44&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=Veereshym44&icon=0&color=0" alt="Visits">
+  </a>
+</div>

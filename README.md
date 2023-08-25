@@ -1,24 +1,19 @@
 <div align="center">
   <h1>Hi there! 👋 I am Veeresh Kumar Y M</h1>
-  
-  <p>
-    <a href="https://instagram.com/Veeresh_ym">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://in.linkedin.com/in/veeresh-kumar-y-m-09b779221">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
 </div>
 
 ## About Me 💫
-I am a 3rd-year undergraduate student at Siddaganga Institute of Technology, Tumkur. I have a strong passion for coding and specialize in MERN stack development. I had the privilege of interning at Alcon Laboratories as a Software Engineer for 2 months. During my internship, I automated Jira Software to generate reports for issues that transitioned to the 'Done' state in the previous 24 hours. I also worked on integrating Docusign with Jira.
+I am a 3rd-year undergraduate student at Siddaganga Institute of Technology, Tumkur. I have a strong passion for coding and I specialize in MERN stack development. I had the privilege of interning at Alcon Laboratories as a Software Engineer for 2 months. During my internship, I automated Jira Software to generate reports for issues that transitioned to the 'Done' state in the previous 24 hours. I also worked on integrating Docusign with Jira.
 
 ## What I can help you with 💬
-I am well-versed in the following programming languages and tools:
+I am well-versed in the following areas:
+
+### Programming Languages:
 - C
 - C++
 - JavaScript
+
+### Tools and Technologies:
 - Jira (Project Management Tool)
 - Power Automate (Automation Tool)
 - MERN Stack (Web Technologies)
@@ -26,9 +21,16 @@ I am well-versed in the following programming languages and tools:
 ## What I'm currently working on 🌱
 I am currently focused on deepening my knowledge of MERN Stack development and exploring NLP technologies.
 
+## Connect with me 🌐
 <div align="center">
   <a href="https://instagram.com/Veeresh_ym">
-    <img src="https://github-readme-stats.vercel.app/api?username=Veereshym44&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://in.linkedin.com/in/veeresh-kumar-y-m-09b779221">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:veereshkumarym@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 

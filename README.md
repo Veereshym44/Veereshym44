@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<br>I am a 3rd Year undergraduate student from Siddaganga Institute of Technology, Tumkur.I am a coding enthusiast and a MERN STACK developer.<br>💬 Ask me about<hr><br><br>Programming Languages:<br>- C<br>- C++<br>- Javascript<br><br>Project Management Tool:<br>- Jira<br><br>Automation Tool:<br>- Power Automate<br><br>Web Technologies:<br>-Mern Stack<br><br>🌱 I’m currently learning MERN STACK and NLP Technologies.<br>⚡ I previously worked with Alcon Laboratories as Software Engineer Intern for span of 2 months,I worked on automating Jira Software in automating the generation of reports for which issue is in done state in previous 24 hours,and then i worked on integration of this docusign with it.
+<br>I am a 3rd Year undergraduate student from Siddaganga Institute of Technology, Tumkur.I am a coding enthusiast and a MERN STACK developer.<br>💬 Ask me about<hr>Programming Languages:<br>- C<br>- C++<br>- Javascript<br><br>Project Management Tool:-<br> Jira<br>Automation Tool:<br>- Power Automate<br><br>Web Technologies:<br>-Mern Stack<br><br>🌱 I’m currently learning MERN STACK and NLP Technologies.<br>⚡ I previously worked with Alcon Laboratories as Software Engineer Intern for span of 2 months,I worked on automating Jira Software in automating the generation of reports for which issue is in done state in previous 24 hours,and then i worked on integration of this docusign with it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Veeresh_ym) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/veeresh-kumar-y-m-09b779221) 
